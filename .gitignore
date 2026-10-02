@@ -1,0 +1,20 @@
+# Training outputs
+runs/
+
+# PyTorch checkpoints
+*.pt
+*.pth
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
